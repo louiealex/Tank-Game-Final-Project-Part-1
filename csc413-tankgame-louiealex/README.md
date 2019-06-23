@@ -1,10 +1,6 @@
 # csc413-TankGame
 
 ## Student Name : Alexander M. Louie
-## Student ID : 916124851
-
-# Repo Link
-https://github.com/csc413-01-fa18/csc413-tankgame-louiealex
 
 # Project Build Info: 
 IDE: **IntelliJ Idea 2018.2.3 (Ultimate Edition) IDE** 
